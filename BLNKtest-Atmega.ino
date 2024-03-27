@@ -4,13 +4,13 @@
 void setup() {
  // seting up  the IO pins used and whether they are outputs or inputs.
 
-pinMode (2,OUTPUT);
+pinMode (4,OUTPUT);
 }
 
 void loop() {
   // putthe main code here, to run repeatedly:
- digitalWrite(2,HIGH);
+ digitalWrite(4,HIGH);
  delay(2000);
- digitalWrite(2,LOW);
+ digitalWrite(4,LOW);
  delay(10000);
 }
