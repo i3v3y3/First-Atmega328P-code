@@ -1,4 +1,4 @@
-#Atmega328P
+# Atmega328P
 
 In this repo, I will be focusing on coding the Atmega328P microcontroller that is found on the Arduino Uno dev board. 
 In the first document, you will find a breadboard version of the microcontroller used with some simple sensors. I will also include a PCB design that I designed that is cheaper to design and produce.
