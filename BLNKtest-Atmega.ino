@@ -9,7 +9,7 @@ pinMode (4,OUTPUT);
 
 void loop() {
   // putthe main code here, to run repeatedly:
- digitalWrite(4,HIGH);
+ digitalWrite(9,HIGH);
  delay(2000);
  digitalWrite(4,LOW);
  delay(10000);
